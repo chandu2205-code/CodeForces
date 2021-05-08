@@ -1,2 +1,2 @@
 # CodeForces
-Repository containing code forces rated contests solutions
+Repository containing code forces rated contest solutions
